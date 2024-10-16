@@ -11,7 +11,7 @@
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "Oleksandr Astakhov <revolver.bmx@gmail.com>",
+  "author": "Anastasiia Tarasiuk <nastytaras52@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.2.0",
@@ -23,7 +23,8 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
-    "express": "^4.21.1",
+    "express": "^4.20.0",
+    "http-errors": "^2.0.0",
     "mongoose": "^8.6.1",
     "pino-http": "^10.3.0"
   }
